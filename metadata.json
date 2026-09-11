@@ -1,0 +1,6 @@
+{
+  "name": "Калькулятор Инвестиций и Роста Капитала",
+  "description": "Прогнозирование роста капитала с учетом заработной платы, инвестиций, сложного процента, сравнения сценариев и экспорта отчетов в PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
